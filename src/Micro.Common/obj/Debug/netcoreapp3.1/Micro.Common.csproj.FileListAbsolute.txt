@@ -1,0 +1,27 @@
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.deps.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.csprojAssemblyReference.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfoInputs.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.csproj.CoreCompileInputs.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.pdb
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.deps.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.csprojAssemblyReference.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfoInputs.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.csproj.CoreCompileInputs.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.pdb
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.deps.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfoInputs.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.AssemblyInfo.cs
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.csproj.CoreCompileInputs.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/obj/Debug/netcoreapp3.1/Micro.Common.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Micro.Common
+build_property.ProjectDir = /Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Common/

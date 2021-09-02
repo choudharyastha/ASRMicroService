@@ -1,0 +1,83 @@
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.exe
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.deps.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.dev.json
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csprojAssemblyReference.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfoInputs.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CoreCompileInputs.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.Manifest.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.xml
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/scopedcss/bundle/Micro.Service.rule2.styles.css
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.RazorTargetAssemblyInfo.cache
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CopyComplete
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+C:/Users/Anurag Agrawal/Desktop/web development/POC/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.genruntimeconfig.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.exe
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.deps.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.dev.json
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csprojAssemblyReference.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfoInputs.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CoreCompileInputs.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.Manifest.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.xml
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/scopedcss/bundle/Micro.Service.rule2.styles.css
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.RazorTargetAssemblyInfo.cache
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CopyComplete
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+C:/Users/Anurag Agrawal/Desktop/Poc_Microservices_synchronous/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.genruntimeconfig.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.deps.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.runtimeconfig.dev.json
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/bin/Debug/netcoreapp3.1/Micro.Common.pdb
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfoInputs.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.AssemblyInfo.cs
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CoreCompileInputs.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cs
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.MvcApplicationPartsAssemblyInfo.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.Manifest.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/staticwebassets/Micro.Service.rule2.StaticWebAssets.xml
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/scopedcss/bundle/Micro.Service.rule2.styles.css
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.RazorTargetAssemblyInfo.cache
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.csproj.CopyComplete
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.dll
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.pdb
+/Users/murtuzapatel/Develop/POC/POC_command_pattern/src/Micro.Service.rule2/obj/Debug/netcoreapp3.1/Micro.Service.rule2.genruntimeconfig.cache
