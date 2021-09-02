@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{E62FF37B-8CD4-476F-8AA3-BC5AAE833980}|Default">
+  <MonoDevelop.Ide.ItemProperties.gateway.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cmdpattern" expanded="True">
+            <Node name="gateway.api" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="JobRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
